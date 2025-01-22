@@ -20,7 +20,8 @@ The **Placement Data Analysis** project is a deep dive into historical student p
 
 ## 🐂 Repository Contents  
 - **`Placement_Data_Analysis.ipynb`**: Jupyter Notebook containing data cleaning, analysis, and visualization steps.  
-- **Datasets** (if applicable): Source data used for the analysis.  
+- **`Placement_Data_Analysis.xlsx`** : Excel containing data cleaning and analysis steps.
+- **`Placement_dataset.xlsx`** : Source data used for the analysis 
 
 ## 🚀 How to Use  
 1. Clone the repository:  
@@ -42,20 +43,8 @@ The **Placement Data Analysis** project is a deep dive into historical student p
 5. Follow the notebook to explore the analysis and visualizations.  
 
 ## 📊 Key Insights  
-- **Academic Performance**: Key GPA thresholds correlated with successful placements.  
-- **Skillsets**: Technical and soft skills most valued by recruiters.  
-- **Industry Trends**: Preferred industries and roles for graduating students.  
+- **Academic Performance**: Key Percentage thresholds correlated with successful placements.  
+- **Skillsets**: Marketing and Finance skills are preferred.  
+- **Industry Trends**: Prefer students with work experience.  
 
-## 📈 Future Enhancements  
-- Build predictive models to forecast placement likelihood based on student data.  
-- Develop a web-based dashboard for interactive data exploration.  
-- Include data from multiple colleges to generalize findings.  
-
-## 🤝 Contributing  
-We encourage contributions to enhance this project! If you have ideas for improvement, fork the repository, implement your changes, and submit a pull request.  
-
-## 📄 License  
-This project is licensed under the MIT License. See the `LICENSE` file for details.  
-
-## 💡 Acknowledgments  
-Special thanks to the contributors and data providers for supporting this project.  
+  
