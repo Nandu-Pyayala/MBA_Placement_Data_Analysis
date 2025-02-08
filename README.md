@@ -21,26 +21,7 @@ The **Placement Data Analysis** project is a deep dive into historical student p
 ## 🐂 Repository Contents  
 - **`Placement_Data_Analysis.ipynb`**: Jupyter Notebook containing data cleaning, analysis, and visualization steps.  
 - **`Placement_Data_Analysis.xlsx`** : Excel containing data cleaning and analysis steps.
-- **`Placement_dataset.xlsx`** : Source data used for the analysis 
-
-## 🚀 How to Use  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/Placement-Data-Analysis.git  
-   ```  
-2. Navigate to the project directory:  
-   ```bash  
-   cd Placement-Data-Analysis  
-   ```  
-3. Install the required dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-4. Open the Jupyter Notebook:  
-   ```bash  
-   jupyter notebook Placement_Data_Analysis.ipynb  
-   ```  
-5. Follow the notebook to explore the analysis and visualizations.  
+- **`Placement_dataset.xlsx`** : Source data used for the analysis
 
 ## 📊 Key Insights  
 - **Academic Performance**: Key Percentage thresholds correlated with successful placements.  
